@@ -1,0 +1,22 @@
+#inputText {
+	width: 400px;
+	height: 200px;
+}
+
+#SpeedyReader {
+	display: inline;
+}
+#SpeedyReader div {
+	margin: 10px;
+}
+#wordDisplay {
+    display: table;
+	width: 300px;
+	height: 100px;
+	border: 1px solid black;
+}
+#word {
+	display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
